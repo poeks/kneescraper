@@ -1,6 +1,6 @@
 # Kneescraper
 
-TODO: Write a gem description
+A way simplified wrapper for Nokogiri
 
 ## Installation
 
